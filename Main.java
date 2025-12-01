@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     private static final String url = "jdbc:mysql://localhost:3306/lenden";
     private static final String userName = "root";
-    private static final String password = "UTKARSH@123";
+    private static final String password = "your_password";
 
     public static void main(String[] args) {
         try {
